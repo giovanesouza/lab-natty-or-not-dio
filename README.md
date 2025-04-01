@@ -1,48 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🚢 Sailing Through Recife - AI-Generated Video
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este projeto explora o uso de IA generativa para criar um vídeo realista e imersivo de um passeio pelo rio na cidade do Recife. Utilizando uma única imagem estática, a animação foi gerada para transmitir a sensação de movimento e profundidade.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+* [Runway ML](https://runwayml.com/) – Para a geração da animação a partir de uma imagem estática.
+* **IA de Processamento de Imagem** – Aplicada para criar o efeito de deslocamento dinâmico.
+* **Estilização Cinemática** – Implementada para aprimorar a estética visual do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+* **Imagem Base**: Selecionei uma foto da cidade do Recife, destacando o rio e os casarões históricos.
+
+![recife-rio](https://github.com/user-attachments/assets/8b6db0ba-64ed-47be-8948-e6c9eff993ee)
+
+* **Descrição do Movimento**: Utilizei o prompt "`View of a person sailing down the river`" para guiar a IA na geração do vídeo.
+
+* **Configuração da Animação**: Ajustei parâmetros como velocidade, efeito de perspectiva e simulação de fluxo dinâmico.
+
+* **Geração do Vídeo**: A IA processou a imagem e transformou em um clipe animado com um efeito de navegação realista.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+* **Vídeo final**: Um clipe que simula um passeio fluído pelo rio em primeira pessoa.
 
-### Exemplos e Insigths
+https://github.com/user-attachments/assets/4fb344e5-d99d-498b-88ae-50ac774ec64e
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+* **Efeito realista**: Sensação de movimento contínuo sem cortes bruscos.
+
+* **Ambiente imersivo**: A estética da animação reforça a atmosfera da cidade.
+
+## 💭 Reflexão
+
+Criar algo naturalmente envolvente com IA foi um desafio interessante. O uso de descrições detalhadas e parâmetros ajustáveis foi essencial para alcançar um resultado próximo do realismo. A exploração de técnicas como motion blur e efeitos cinematográficos mostrou como as ferramentas generativas podem criar experiências visuais impactantes.
 
 ## Links Interessantes
 
